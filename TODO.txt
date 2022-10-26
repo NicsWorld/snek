@@ -1,0 +1,5 @@
+- Add eating sounds - may be causing some delay
+- button to toggle on / off sounds
+- deploy
+- add a bomb
+- fix snake head so image is algined with index finger
